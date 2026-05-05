@@ -93,15 +93,7 @@ The paper reports a blind side-by-side evaluation with:
 
 ## Demo
 
-<p align="center">
-  <video src="asset/JaiTTS-demo.mp4" controls width="760">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-<p align="center">
-  <a href="asset/JaiTTS-demo.mp4"></a>
-</p>
+https://github.com/user-attachments/assets/8e44c106-d3b5-4ecd-bccd-8325cbe54489
 
 ## Quick Start
 
