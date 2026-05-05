@@ -32,6 +32,7 @@ This repository contains the benchmark and the code used for benchmarking.
 - [Overview](#overview)
 - [Key Results](#key-results)
 - [Human Evaluation](#human-evaluation)
+- [Demo](#demo)
 - [Quick Start](#quick-start)
 - [Links](#links)
 - [Citation](#citation)
@@ -89,6 +90,18 @@ The paper reports a blind side-by-side evaluation with:
 | vs. eleven_v3 | 161 | 19 | 20 |
 | vs. speech-2.8-hd | 122 | 40 | 38 |
 | **Total** | **283** | **59** | **58** |
+
+## Demo
+
+<p align="center">
+  <video src="asset/JaiTTS-demo.mp4" controls width="760">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+<p align="center">
+  <a href="asset/JaiTTS-demo.mp4"></a>
+</p>
 
 ## Quick Start
 
