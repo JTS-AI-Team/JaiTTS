@@ -157,7 +157,7 @@ bash cal_sim.sh {the path of the meta.lst file} {the directory of synthesized au
 - Paper: <https://arxiv.org/pdf/2604.27607>
 - Website: <https://jts.co.th/jai>
 - Hugging Face: <https://huggingface.co/JTS-AI>
-- Contact: <salejts@jasmine.com>
+- Contact: <jts.ai.team@gmail.com>
 
 ## Citation
 ```
