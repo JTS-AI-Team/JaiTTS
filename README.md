@@ -65,7 +65,8 @@ Main contributions from the paper:
 | Qwen3-TTS-1.7B | 2.56 | 0.62 | 3.64 | 0.78 |
 | ThonburianTTS | 6.26 | 0.48 | -- | -- |
 | Moss-TTS-v1.5 | 4.05 | 0.57 | 4.39 | 0.76 |
-| Omnivoice | 2.73 | **0.65** | 6.28 | **0.82** |
+| Omnivoice | 2.73 | 0.65 | 6.28 | **0.82** |
+| VoxCPM2 | 4.98 | **0.68** | 3.37 | 0.80 |
 | Kaitom Voice V3 (Alpha) | 2.34 | 0.59 | 5.81 | 0.79 |
 | **[JaiTTS-v1.0](https://jaitts-demo.jts.co.th/)** | **1.94** | 0.62 | **2.55** | 0.76 |
 
